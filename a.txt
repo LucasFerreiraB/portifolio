@@ -1,0 +1,54 @@
+https://docs.emmet.io/
+
+P1;
+https://www.figma.com/file/dRdkkewTSz9Xu1TXoQkW0u/Portfolio---Curso-1?type=design&node-id=0%3A1&mode=design&t=XuGrUuV0WIAKkYVd-1
+
+P2;
+https://www.figma.com/design/rZ0ZDD9QYUwgXC8ZkJJpEX/Portfolio---Curso-3?node-id=0-1&t=rK3W1cwBNQOlo77l-0
+
+css-tricks.com
+developer css
+colorhunt.com
+
+Atalho para comentar: Ctrl + K + C
+p*2 = atalho paragrafo
+------------------------------
+
+Tableless
+As linguagens que quase foram o CSS
+Metodologia BEM CSS
+OOCSS
+Locaweb Style (framework CSS)
+Cursos relacionados na Alura:
+
+HTML5 e CSS3 I: Suas primeiras páginas da Web
+HTML5 e CSS3 II: Turbinando as suas páginas
+Sass e Compass: Descomplicando o CSS
+LESS: CSS simples e produtivo
+-------------------------------------------------
+
+Comandos Git:
+https://www.alura.com.br/artigos/o-que-e-git-github
+
+git config --global user.name "Seu Nome"
+git config --global user.email "seu@email.com"
+
+git init
+
+git add nome-do-arquivo
+
+git commit -m "Sua mensagem de commit aqui"
+
+git log
+
+
+Git init;
+Git clone;
+Git status;
+Git add;
+Git commit;
+Git log;
+Git branch;
+Git checkout;
+Git diff.
+
